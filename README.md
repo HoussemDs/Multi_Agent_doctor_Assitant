@@ -16,7 +16,7 @@ A multiagent system that processes patient data and facilitates communication be
    ```
    pip install -r requirements.txt
    ```
-3. Configure your `.env` file with your Groq API key
+3. Create a `.env` file based on the provided `.env.example` template and add your Groq API keys
 4. Run the application:
    ```
    python main.py
@@ -45,6 +45,11 @@ A multiagent system that processes patient data and facilitates communication be
 ## Usage
 
 The system processes patient data and initiates appropriate agent conversations based on the patient's condition. Doctors can interact with the system to receive recommendations and provide feedback.
+
+When you run the application, it will:
+1. Process patient data from the sample records
+2. Generate detailed medical reports based on patient conditions
+3. Save the reports as markdown files in the `output` directory
 
 ## License
 
