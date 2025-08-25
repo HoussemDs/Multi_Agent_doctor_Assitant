@@ -51,6 +51,8 @@ When you run the application, it will:
 2. Generate detailed medical reports based on patient conditions
 3. Save the reports as markdown files in the `output` directory
 
+**Note:** All patient data used in this project is fictional and for demonstration purposes only. The sample patient records and generated reports do not contain real medical information.
+
 ## License
 
 MIT
