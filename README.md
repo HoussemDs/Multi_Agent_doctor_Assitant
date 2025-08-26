@@ -2,6 +2,8 @@
 
 A multiagent system that processes patient data and facilitates communication between doctors to provide appropriate care based on patient conditions.
 
+**If you wish to understand how the flow works, please open [patient_flow_explanation.md](./patient_flow_explanation.md).**
+
 ## Features
 
 - Specialized agents for different patient conditions (normal, sick, heart problems)
