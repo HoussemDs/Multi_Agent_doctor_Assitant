@@ -53,6 +53,15 @@ When you run the application, it will:
 2. Generate detailed medical reports based on patient conditions
 3. Save the reports as markdown files in the `output` directory
 
+
+## Acknowledgments
+
+I would like to express my sincere gratitude to **Youssef Barketallah Baklouti**  
+([youssef_barketallah.baklouti@alight.eu](mailto:youssef_barketallah.baklouti@alight.eu))  
+for his continuous guidance, valuable feedback, and support throughout the development of this project.
+
+
+
 **Note:** All patient data used in this project is fictional and for demonstration purposes only. The sample patient records and generated reports do not contain real medical information.
 
 ## License
